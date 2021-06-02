@@ -12,7 +12,7 @@ The Analysis is intended for innacurate data for the grade nines at Thomas High 
 
 ## Results
 
-In the table below, We see a few patterns that stand out. The achievement between Charter Schools and District Schools, with the former having higher scores in both Math and Reading. Additionally, the Per Student Budget is not an indicator of achievement in the Math and Reading scores. Further evaluation of teachers and their practices is needed to understand why certain schools did better.
+In the table below, We see a few patterns that stand out. The achievement between Charter Schools and District Schools, with the former having higher scores in both Math and Reading. Additionally, the Per Student Budget is not an indicator of achievement in the Math and Reading scores. Further evaluation is needed to understand why certain schools did better.
 
 ![](https://github.com/arjunkannawar/School_District_Analysis/blob/main/Resources/School%20District%201.png)
 
