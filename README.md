@@ -16,7 +16,7 @@ In the table below, We see a few patterns that stand out. The achievement betwee
 
 ![](https://github.com/arjunkannawar/School_District_Analysis/blob/main/Resources/School%20District%201.png)
 
-The below table is for grade nine students from Thomas High School removed. Miniscule change was obvserved across the categories.
+The below table is for grade nine students from Thomas High School removed. Minuscule change was obvserved across the categories.
 
 ![](https://github.com/arjunkannawar/School_District_Analysis/blob/main/Resources/nines%20removed.png)
 
